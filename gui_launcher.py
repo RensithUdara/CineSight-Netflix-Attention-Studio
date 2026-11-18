@@ -1,4 +1,3 @@
-import utils.session
 import json
 import os
 import platform
